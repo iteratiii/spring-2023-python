@@ -2,4 +2,4 @@
 
 ## Practicing push / pull.
 
-Hello!
+Hello! Now testing pull.
