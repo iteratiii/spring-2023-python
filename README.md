@@ -1,4 +1,4 @@
-# README
+# spring 2023 python 🐍🤓💻
 
 ## Week 2: Python Poem
 
