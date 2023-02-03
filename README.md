@@ -6,7 +6,7 @@
 ### Concept
 Reviewing Python methods for playing with strings reminded me of cut-ups, blackout poems, and other poem projects like Jen Bervin's Nets, which strategically removes words from Shakespeare's Sonnets to create new poems. 
 
-I decided to modify the well-known poem [One Art](https://www.poetryfoundation.org/poems/47536/one-art) by Elizabeth Bishop, which is about gradual loss, from mundane to monumental.
+I decided to modify the well-known villanelle [One Art](https://www.poetryfoundation.org/poems/47536/one-art) by Elizabeth Bishop, which is about gradual loss, from mundane to monumental.
 
 
 ### Process
