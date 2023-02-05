@@ -16,7 +16,7 @@ The result is an [1,870-line poem](https://github.com/iteratiii/spring-2023-pyth
 
 I also listed the words lost in order of loss at the end of the poem.
 
-I made a shorter version that's <500 lines, but it doesn't have the same effect of gradual, incremental loss. I think some of the best web art takes advantage of the infinite scroll; as Frank Chimero writes, that's part of the grain of the web, the nature of the material. So perhaps the long one is the more pure version, just more difficult to present.
+I made a shorter version that's <500 lines, but it doesn't have the same effect of gradual, incremental loss. I think some of the best web art takes advantage of the infinite scroll; that's part of the grain of the web, a unique affordance of the material. So perhaps the long one is the more pure version, just more difficult to present.
 
 
 ### Struggle
