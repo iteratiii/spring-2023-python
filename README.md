@@ -1,5 +1,15 @@
 # Spring 2023 Python 🐍🌷🤓
 
+## Week 4: Objects of Desire
+I made a class to hold some of my favorite places in New York City last week. I learned to use the googlemaps library (after jumping between geocoder, geomaps, etc. I went straight to the source). Today I learned that instead of having to go and get my own key and so on, I could have tried using Beautiful Soup and Selenium. Maybe in the future!
+
+## Week 3: Creative Calculator
+I felt so bored by math, but then I realized I can do operations on language.
+
+I added strings together and multipled vowels in a name to create some cute meme generators.
+
+I also learned more about using libraries and manipulating strings.
+
 ## Week 2: Python Poem
 
 
