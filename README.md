@@ -1,5 +1,14 @@
 # Spring 2023 Python 🐍🌷🤓
 
+## Week 7: Scrape It
+I scraped some beautiful collages from Public Domain Review.
+
+## Week 6: API
+I've been using the Legiscan API to access legal texts and information for another project.
+
+## Week 5: Map It
+I made visualizations of the distances of my favorite places from week 4.
+
 ## Week 4: Objects of Desire
 I made a class to hold some of my favorite places in New York City last week. I learned to use the googlemaps library (after jumping between geocoder, geomaps, etc. I went straight to the source). Today I learned that instead of having to go and get my own key and so on, I could have tried using Beautiful Soup and Selenium. Maybe in the future!
 
