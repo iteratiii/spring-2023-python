@@ -31,7 +31,7 @@ I decided to modify the well-known villanelle [One Art](https://www.poetryfounda
 ### Process
 I found a list of the [10,000 most common English words](https://github.com/first20hours/google-10000-english) in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus, and cloned it to my week 2 repo. I clipped the list to 1500 words, removed single-letter words besides "a" and "i", reversed the list to start from least to most common, and checked each of the words in One Art against it. If a match was found, the word was removed and the poem reprinted.
 
-The result is an [1,870-line poem](https://github.com/iteratiii/spring-2023-python/blob/main/week2/PythonPoem.ipynb) that gradually decays as it repeats the original work, losing parts of its structure but still standing.
+The result is an [1,870-line poem](https://github.com/iteratiii/spring-2023-python/blob/main/week2/homework-PythonPoem.ipynb) that gradually decays as it repeats the original work, losing parts of its structure but still standing.
 
 I also listed the words lost in order of loss at the end of the poem.
 
