@@ -7,7 +7,7 @@ Too busy, did not do the homework.
 We adapted the speech-to-text function from the class demo as input to a Python ASCII text and art generator library and presented it in class.
 
 ## Week 11: Fine-Tune
-I [fine-tuned GPT](https://github.com/iteratiii/spring-2023-python/blob/main/week11/homework-finetune-redacted.ipynb) with state / transphobic bill data from my main project.
+I [fine-tuned GPT](https://github.com/iteratiii/spring-2023-python/blob/main/week11/homework-finetune-redacted.ipynb) with state / transphobic bill data from my main project. I also [fine-tuned another model](https://github.com/iteratiii/spring-2023-python/blob/main/week11/homework%20-%20finetune-world-redacted.ipynb) with descriptions of a precolonial and posthuman NYC, curated the descriptions, and [put them on a simple map](https://whatweleavebehind.neocities.org/).
 
 ## Week 10: GPT Instructions
 I was kind of pressed for time this week and asked GPT to tell me [how to make a plaster hand](https://github.com/iteratiii/spring-2023-python/blob/main/week10/homework-GPT%20Instructions.ipynb), which I needed for my main project.
