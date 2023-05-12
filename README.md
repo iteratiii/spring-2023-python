@@ -1,5 +1,8 @@
 # Spring 2023 Python 🐍🌷🤓
 
+## Week 16: Final Presentation
+Final presentation slides, code, and install photo [here](https://github.com/iteratiii/spring-2023-python/blob/main/week16/homework-final.md).
+
 ## Week 14: OpenCV
 Too busy, did not do the homework.
 
