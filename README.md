@@ -1,21 +1,38 @@
 # Spring 2023 Python 🐍🌷🤓
 
+## Week 14: OpenCV
+Too busy, did not do the homework.
+
+## Week 12–13: Raspberry Pi
+We adapted the speech-to-text function from the class demo as input to a Python ASCII text and art generator library and presented it in class.
+
+## Week 11: Fine-Tune
+I [fine-tuned GPT](https://github.com/iteratiii/spring-2023-python/blob/main/week11/homework-finetune-redacted.ipynb) with state / transphobic bill data from my main project.
+
+## Week 10: GPT Instructions
+I was kind of pressed for time this week and asked GPT to tell me [how to make a plaster hand](https://github.com/iteratiii/spring-2023-python/blob/main/week10/homework-GPT%20Instructions.ipynb), which I needed for my main project.
+
+## Week 9: Explore ML Tools
+I [messed around](https://github.com/iteratiii/spring-2023-python/blob/main/week9/homework-Explore%20ML%20Platforms.ipynb) with DALL-E, Runway, and Playform.
+
+## Week 8: Spring Break
+
 ## Week 7: Scrape It
-I scraped some beautiful collages from Public Domain Review.
+I [scraped](https://github.com/iteratiii/spring-2023-python/blob/main/week7/homework-Scrape%20It.ipynb) some [beautiful collages](https://github.com/iteratiii/spring-2023-python/tree/main/week7/blood_book) from Public Domain Review.
 
 ## Week 6: API
-I've been using the Legiscan API to access legal texts and information for another project.
+I've been using the [Legiscan API](https://github.com/iteratiii/spring-2023-python/blob/main/week6/homework-APIs.ipynb) to access legal texts and information for another project.
 
 ## Week 5: Map It
-I made visualizations of the distances of my favorite places from week 4.
+I made [visualizations of the distances](https://github.com/iteratiii/spring-2023-python/blob/main/week5/homework-MapIt.ipynb) of my favorite places from week 4.
 
 ## Week 4: Objects of Desire
-I made a class to hold some of my favorite places in New York City last week. I learned to use the googlemaps library (after jumping between geocoder, geomaps, etc. I went straight to the source). Today I learned that instead of having to go and get my own key and so on, I could have tried using Beautiful Soup and Selenium. Maybe in the future!
+I made a class to hold [some of my favorite places](https://github.com/iteratiii/spring-2023-python/blob/main/week4/homework-ObjectsOfDesire.ipynb) in New York City. I learned to use the googlemaps library (after jumping between geocoder, geomaps, etc. I went straight to the source). Today I learned that instead of having to go and get my own key and so on, I could have tried using Beautiful Soup and Selenium. Maybe in the future!
 
 ## Week 3: Creative Calculator
 I felt so bored by math, but then I realized I can do operations on language.
 
-I added strings together and multipled vowels in a name to create some cute meme generators.
+I added strings together and multipled vowels in a name to create [some cute meme generators](https://github.com/iteratiii/spring-2023-python/blob/main/week3/homework-CreativeCalculator.ipynb).
 
 I also learned more about using libraries and manipulating strings.
 
