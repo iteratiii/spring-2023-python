@@ -19,6 +19,7 @@ I was kind of pressed for time this week and asked GPT to tell me [how to make a
 I [messed around](https://github.com/iteratiii/spring-2023-python/blob/main/week9/homework-Explore%20ML%20Platforms.ipynb) with DALL-E, Runway, and Playform.
 
 ## Week 8: Spring Break
+( ु⁎ᴗ_ᴗ⁎)ु.｡oO
 
 ## Week 7: Scrape It
 I [scraped](https://github.com/iteratiii/spring-2023-python/blob/main/week7/homework-Scrape%20It.ipynb) some [beautiful collages](https://github.com/iteratiii/spring-2023-python/tree/main/week7/blood_book) from Public Domain Review.
